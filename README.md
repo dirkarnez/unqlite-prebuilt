@@ -1,6 +1,6 @@
 unqlite-prebuilt
 ================
-Prebuilt of [symisc/unqlite at v1.1.9](https://github.com/symisc/unqlite/tree/v1.1.9)
+Prebuilt of [symisc/unqlite](https://github.com/symisc/unqlite)
 
 ### Playground
 - [dirkarnez/unqlite-playground](https://github.com/dirkarnez/unqlite-playground)
